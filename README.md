@@ -10,3 +10,7 @@ Our chatbot will take a 2-tiered approach. Our design includes an upper sentimen
 2. Tutorial repo: https://github.com/dredwardhyde/Seq2Seq-Chatbot-English Tutorial repo
 3. Kaggle Data: https://www.kaggle.com/hassanamin/chatbot-nlp
 4. Sentiment Analysis: https://github.com/cjhutto/vaderSentiment
+
+## Extra Datasets
+1. Google Datasets: https://ai.googleblog.com/2019/09/announcing-two-new-natural-language.html
+2.
