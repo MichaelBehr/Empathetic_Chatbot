@@ -1,5 +1,5 @@
 # ECE_657
-ECA Chatbot project myself and Fan are working on for ECE 657.
+ECA Chatbot project myself and Ye Fan developed for ECE 657.
 
 ## Main Description
 Abstract—There has been a large push in recent years to
