@@ -41,6 +41,7 @@ emotionally grounded conversations.
 3. Kaggle Data: https://www.kaggle.com/hassanamin/chatbot-nlp
 4. Sentiment Analysis: https://github.com/cjhutto/vaderSentiment
 
-## Extra Datasets
-1. Google Datasets: https://ai.googleblog.com/2019/09/announcing-two-new-natural-language.html
-2.
+## Datasets Used
+1. Empathetic Dialogues: https://arxiv.org/abs/1811.00207
+2. Cornell Movie Dialogue Corpus: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+3. Emotion Word Embeddings (EWE): https://www.aclweb.org/anthology/C18-1081.pdf
