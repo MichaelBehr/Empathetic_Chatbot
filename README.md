@@ -1,6 +1,5 @@
 # ECE_657
-ECA Chatbot project myself and Ye Fan developed for ECE 657.
-
+A Chatbot project myself and Ye Fan developed for ECE 657, focusing on improving a chatbot's emotional awareness.
 ## Main Description
 Abstract—There has been a large push in recent years to
 develop improved emotional conversational agents (chatbots)
