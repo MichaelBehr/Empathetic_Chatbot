@@ -1,5 +1,5 @@
 # ECE_657
-A Chatbot project myself and Ye Fan developed for ECE 657, focusing on improving a chatbot's emotional awareness. In other words, attempting to improve a chabot's understandability and awareness of conversational context when emotions are involved.
+A Chatbot project myself and Ye Fan developed for ECE 657, focusing on improving a chatbot's emotional awareness. In other words, attempting to improve a chabot's understandability and awareness of conversational context when emotions are involved. The PDF of our project paper is included in this repository.
 
 ## Main Description
 Abstract—There has been a large push in recent years to
